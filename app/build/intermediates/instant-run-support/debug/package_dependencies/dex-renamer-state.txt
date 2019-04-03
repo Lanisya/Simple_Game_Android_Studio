@@ -1,0 +1,4 @@
+#Tue Apr 02 14:22:22 ICT 2019
+base.0=D\:\\Mahasiswa\\Kelas 2\\4210171008\\WPG4\\5\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
